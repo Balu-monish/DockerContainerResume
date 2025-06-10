@@ -79,13 +79,10 @@ To update your resume content:
 
 ## 🤝 Contributing
 
-(Optional section)
 
 Contributions are welcome! If you have suggestions for improvements or find issues, please open an issue or submit a pull request.
 
-## 📄 License
 
-This project is licensed under the [Choose a License, e.g., MIT License](LICENSE) - see the `LICENSE` file for details.
 
 ## 📧 Contact
 
